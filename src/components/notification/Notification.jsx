@@ -1,7 +1,9 @@
+import {} from './Notification.module.css';
+
 export default function Notification() {
   return (
     <div>
-      <p>No feedback yet</p>
+      <h2>No feedback yet</h2>
     </div>
   );
 }
